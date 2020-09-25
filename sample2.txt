@@ -1,5 +1,3 @@
 this is sample
 this is the second line
-txis is third linexxx
-
-
+tis is third linexxx
